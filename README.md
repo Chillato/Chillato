@@ -7,11 +7,11 @@
 [![Gif](https://readme-typing-svg.herokuapp.com/?color=%2300FFE2E&center=true&vCenter=true&lines=My+nickname+is+Chillato+i+programming;PocketMine-MP+Nukkit+and+Python.)](https://github.com/Chillato)
 
 
-![GitHub stars](https://img.shields.io/github/stars/Chillato?logo=github&style=social)
+![Anurag's GitHub stats](https://img.shields.io/github/stars/Chillato?logo=github&style=social)
 
 <section id='stats'>
   
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Chillato&show_icons=true&theme=tokyonight)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Chillato&show_icons=true&theme=dark)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chillato&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### [Chillato|Community](https://discord.gg/acRDapM8eu)

@@ -12,7 +12,7 @@
 <section id='stats'>
   
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Chillato&show_icons=true&theme=tokyonight)
-  ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chillato&layout=compact&theme=github_dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### [Chillato|Community](https://discord.gg/acRDapM8eu)
 <img align="left" alt="Discord" width="100px" src="https://img.favpng.com/7/9/10/discord-computer-icons-logo-social-media-png-favpng-sCqKwuEaekk7xnBMsAUfBAaku.jpg" />

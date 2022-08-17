@@ -15,4 +15,4 @@
   ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chillato&layout=compact&theme=github_dark)
 
 ### [Chillato|Community](https://discord.gg/acRDapM8eu)
-<a href="https://discord.gg/acRDapM8eu"><img src="https://loghi-famosi.com/wp-content/uploads/2021/02/Discord-Logo.png"></a>
+<img align="left" alt="Discord" width="40px" src="https://img.favpng.com/7/9/10/discord-computer-icons-logo-social-media-png-favpng-sCqKwuEaekk7xnBMsAUfBAaku.jpg" />

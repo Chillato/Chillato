@@ -7,7 +7,7 @@
 [![Gif](https://readme-typing-svg.herokuapp.com/?color=%2300FFE2E&center=true&vCenter=true&lines=My+nickname+is+Chillato+i+programming;PocketMine-MP+Nukkit+and+Python.)](https://github.com/Chillato)
 
 
-![Anurag's GitHub stats](https://img.shields.io/github/stars/Chillato?logo=github&style=social)
+![GitHub stars](https://img.shields.io/github/stars/Chillato?logo=github&style=social)
 
 <section id='stats'>
   

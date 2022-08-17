@@ -11,7 +11,7 @@
 
 <section id='stats'>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chillato&show_icons=true&theme=dark)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chillato&show_icons=true&theme=radical)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chillato&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### [Chillato|Community](https://discord.gg/acRDapM8eu)

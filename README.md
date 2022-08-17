@@ -4,7 +4,7 @@
 <img align="left" alt="Intellij" width="40px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_macos_bigsur_icon_190061.png" />
 
 
-[![Gif](https://readme-typing-svg.herokuapp.com/?color=%2300FFE2E&center=true&vCenter=true&lines=My+nickname+is+Chillato+i+program+in;PocketMine-MP+and+Nukkit+Python.%3F%3F%3F)](https://github.com/Chillato)
+[![Gif](https://readme-typing-svg.herokuapp.com/?color=%2300FFE2E&center=true&vCenter=true&lines=My+nickname+is+Chillato+i+program+in;PocketMine-MP+and+Nukkit+Python.)](https://github.com/Chillato)
 
 
 ![GitHub stars](https://img.shields.io/github/stars/Chillato?logo=github&style=social)
